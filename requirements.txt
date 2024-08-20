@@ -1,0 +1,2 @@
+# Core dependencies goes here
+unstructured[all-docs]==0.15.6
